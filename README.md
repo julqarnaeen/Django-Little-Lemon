@@ -27,7 +27,11 @@ Make sure you install python and django webframework in your local machine envir
 python manage.py runserver
 ```
 
-3. Open `http://127.0.0.1:8000/` in your browser.
+3. Open the address in browser
+```powershell
+http://127.0.0.1:8000/
+``` 
+
 
 ## Overview
 
