@@ -3,7 +3,7 @@
 A simple web app made by using Django framework. It is from meta peer-graded assignment for the fictional Little Lemon restaurant. It includes Home, About, Menu, and Book (reservation) pages with basic navigation and styling.
 
 ## How to run for Windows PowerShell
-Make sure you install python and django webframework in your local machine environment.
+Make sure you install python and django webframework in your local machine environment. Then Open any IDE or local machine terminal.
 
 ---
 
